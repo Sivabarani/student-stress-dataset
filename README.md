@@ -31,25 +31,12 @@ The dataset contains the following columns:
 The goal of this analysis is to predict the "Depression" status of participants. While the "Depression" column is the target variable, the dataset also provides an opportunity to explore the relationships between other features (independent variables) and depression levels.
 
 **Understanding Data Relationships: Dependent vs. Independent Variables**
-_Dependent Variable:_
+**1. _Dependent Variable:_**
 The "Depression" column is the outcome we are trying to predict, indicating whether the student is depressed or not.
 
-_Independent Variables:_
+**2. _Independent Variables:_**
 All other columns are considered independent variables that may influence depression, including:
 
-Age
-Gender
-Academic Pressure
-Work Pressure
-CGPA
-Study Satisfaction
-Job Satisfaction
-Sleep Duration
-Dietary Habits
-Degree
-Suicidal Thoughts History
-Work/Study Hours
-Financial Stress
-Family History of Mental Illness
+Age, Gender, Academic Pressure, Work Pressure, CGPA, Study Satisfaction, Job, Satisfaction, Sleep, Duration, Dietary, Habits, Degree, Suicidal Thoughts, Work/Study Hours, Financial Stress, Family History of Mental Illness.
 
 These independent variables may help predict whether or not a student is depressed, and understanding their relationship with the dependent variable is key to building an effective predictive model.
