@@ -30,7 +30,7 @@ The dataset contains the following columns:
 **Objective**
 The goal of this analysis is to predict the "Depression" status of participants. While the "Depression" column is the target variable, the dataset also provides an opportunity to explore the relationships between other features (independent variables) and depression levels.
 
-**Understanding Data Relationships: Dependent vs. Independent Variables**
+**Understanding Data Relationships:**
 
 **1. _Dependent Variable:_**
 The "Depression" column is the outcome we are trying to predict, indicating whether the student is depressed or not.
